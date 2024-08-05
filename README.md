@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá! Me chamo Lucas Silva!! 👋
 
-<!--
-**lucassilvaq77/lucassilvaq77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meus hobbies são estudar 🖥 e Jogar 🎮
+- Estudante
+- 3 Semestres de experiência em Análise e Desenvolvimento de Sistemas
+- Cursando Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/" target="_blank">Growdev</a> 
 
-Here are some ideas to get you started:
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+![lucassilvaq7's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassilvaq77&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilvaq77&layout=donut)](https://github.com/lucassilvaq77)
+
+<hr>
+
+## Fale comigo!!
+
+<a href="https://discord.gg/lucassilvaq7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank"></a>
